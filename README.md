@@ -16,4 +16,6 @@
 
 7. Under "Website", click the "Use your GitHub Pages website" checkbox
 
-8. Click "Save changes"
+8. Take note of the URL, and click "Save changes"
+
+9. Navigate to that URL to observe when the deployment completes
