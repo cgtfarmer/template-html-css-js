@@ -1,6 +1,6 @@
 # How to use this template repo
 
-1. Create your own repo from this template, and navigate to your repo
+1. Use the green button on the top right to create your own repo from this template, and then navigate to your repo
 
 2. Settings > Pages
 
